@@ -1,0 +1,81 @@
+{
+    "Rack_1": {
+        "name": "Hypervisor Rack 1",
+        "uAmount": "42",
+        "lbs": "150",
+        "deviceList": [
+            {
+                "Name": "Hypervisor-001",
+                "Type": "Server",
+                "uSize": "1",
+                "lbs": "26.86",
+                "db": "38",
+                "psuWatts": "500"
+            },
+            {
+                "Name": "Hypervisor-002",
+                "Type": "Server",
+                "uSize": "1",
+                "lbs": "26.86",
+                "db": "38",
+                "psuWatts": "500"
+            },
+            {
+                "Name": "Hypervisor-003",
+                "Type": "Server",
+                "uSize": "1",
+                "lbs": "26.86",
+                "db": "38",
+                "psuWatts": "500"
+            },
+            {
+                "Name": "Hypervisor-004",
+                "Type": "Server",
+                "uSize": "1",
+                "lbs": "26.86",
+                "db": "38",
+                "psuWatts": "500"
+            },
+            {
+                "Name": "Control Switch 01",
+                "Type": "Switch",
+                "uSize": "1",
+                "lbs": "20.99",
+                "db": "71.5",
+                "psuWatts": "650"
+            },
+            {
+                "Name": "Control Switch 02",
+                "Type": "Switch",
+                "uSize": "1",
+                "lbs": "20.99",
+                "db": "71.5",
+                "psuWatts": "650"
+            },
+            {
+                "Name": "Firewall 01",
+                "Type": "Firewall",
+                "uSize": "1",
+                "lbs": "21.00",
+                "db": "56",
+                "psuWatts": "400"
+            },
+            {
+                "Name": "Firewall 02",
+                "Type": "Firewall",
+                "uSize": "1",
+                "lbs": "21.00",
+                "db": "56",
+                "psuWatts": "400"
+            },
+            {
+                "Name": "Ops Switch",
+                "Type": "Switch",
+                "uSize": "1",
+                "lbs": "16.20",
+                "db": "71.5",
+                "psuWatts": "715"
+            }
+        ]
+    }
+  }
